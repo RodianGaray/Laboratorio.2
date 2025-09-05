@@ -75,12 +75,18 @@ La librería **json** permite trabajar con datos en formato JSON, muy útil para
 
 ## 2. Instalación de Choreographe, enlace con Pepper y generación de movimientos
 
-1. Buscar y descargar **Choreographe 2.5**.  
-2. Instalar desde el archivo `.tar.gz`.  
+1. Buscar y descargar **Choreographe 2.5**. 
+  ![Abrir Rufus](Instalacion.jpg)
+2. Instalar desde el archivo `.tar.gz`.     
+  ![Abrir Rufus](descarga.jpg)
 3. Ubicar la aplicación desde la terminal.  
-4. Abrir Choreographe.  
+  ![Abrir Rufus](Ubicacion.jpg)
+4. Abrir Choreographe.    
+  ![Abrir Rufus](Ingresoapp.jpg)
 5. Crear una secuencia de movimientos para Pepper con bloques visuales.  
+   ![Abrir Rufus](Coreografia.jpg)
 6. Ejecutar la secuencia en el robot.  
+   ![Abrir Rufus](Seleccion_de_rufus.JPG)
 
 ---
 
